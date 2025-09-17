@@ -12,7 +12,11 @@ I'm a Medior Software Tester with a passion for quality assurance and test autom
 - Organization and structure lead to better test coverage
 
 ## 🛠️ Technical Skills
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,arduino,gitlab,obsidian,py,vscode,azure" />
+  </a>
+</p>
 ### Testing Expertise
 - 🔍 **Manual Testing**: Extensive experience in functional and regression testing
 - 🤖 **Test Automation**: 
