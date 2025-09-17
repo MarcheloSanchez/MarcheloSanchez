@@ -14,9 +14,10 @@ I'm a Medior Software Tester with a passion for quality assurance and test autom
 ## 🛠️ Technical Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,arduino,gitlab,obsidian,py,vscode,azure" />
+    <img src="https://skillicons.dev/icons?i=arduino,gitlab,obsidian,postman" />
   </a>
 </p>
+
 ### Testing Expertise
 - 🔍 **Manual Testing**: Extensive experience in functional and regression testing
 - 🤖 **Test Automation**: 
@@ -29,7 +30,15 @@ I'm a Medior Software Tester with a passion for quality assurance and test autom
   - Azure DevOps
   - GitLab
 
+
 ### Programming & Tools
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,py,vscode,azure" />
+  </a>
+</p>
+
+
 - 💻 **Languages**: Python, JavaScript
 - 📝 **Documentation**: Strong focus on detailed test documentation
 - 🔄 **Version Control**: Git
