@@ -6,7 +6,6 @@
 
 I'm a Medior Software Tester with a passion for quality assurance and test automation. With my ISTQB Foundation and Advanced (Test Analyst) certifications, I bring a methodical approach to ensuring software reliability and performance.
 
-Quality isn’t just testing — it’s a mindset.
 ### 💡 My Testing Philosophy
 - Quality is not an act, it's a habit
 - Double-checking is not paranoia, it's professionalism
