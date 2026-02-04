@@ -14,7 +14,7 @@ I'm a Medior Software Tester with a passion for quality assurance and test autom
 ## 🛠️ Technical Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,gitlab,obsidian,postman" />
+    <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,gitlab,obsidian,md,postman" />
   </a>
 </p>
 
@@ -28,7 +28,7 @@ I'm a Medior Software Tester with a passion for quality assurance and test autom
 ### Programming & Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,py,vscode,azure" />
+    <img src="https://skillicons.dev/icons?i=git,py,vscode,azure,docker,js,ocaml,rabbitmq" />
   </a>
 </p>
 
