@@ -19,11 +19,13 @@ I'm a Medior Software Tester with a passion for quality assurance and test autom
 </p>
 
 ### Testing Expertise
-🔍 Manual & Automation Testing
-🤖 Playwright • Selenium
-🌐 API Testing (Postman, SOAP UI)
-💻 Python • JavaScript
-📚 ISTQB Foundation & Advanced (Test Analyst)
+<ul>
+  <li>🔍 Manual &amp; Automation Testing</li>
+  <li>🤖 Playwright • Selenium</li>
+  <li>🌐 API Testing (Postman)</li>
+  <li>💻 Python • JavaScript</li>
+  <li>📚 ISTQB Foundation &amp; Advanced (Test Analyst)</li>
+</ul>
 
 ### Programming & Tools
 <p align="center">
